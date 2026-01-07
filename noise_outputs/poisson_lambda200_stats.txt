@@ -1,0 +1,2 @@
+mean_noise = 0.000786
+std_noise = 0.036265
